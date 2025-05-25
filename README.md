@@ -1,7 +1,3 @@
-NAME: MUHAMMAD AHMAD ALI <br>
-ROLL NO : PIAIC255648<br>
-<br>
-
 
 How to Run..?<br>
 
